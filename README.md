@@ -6,7 +6,7 @@ The **Unit QWIIC BUS Module** is an **I2C expander** designed for **QWIIC bus co
 
 
 <p align="center" style="text-align: center;">
-    <img src="./hardware/resources/PUE0053-Pinout-Qwiic-Bus[EN]-001.jpg" alt="Unit QWIIC BUS Module" width="30%">
+    <img src="./hardware/resources/PUE0053-Pinout-Qwiic-Bus-001.jpg" alt="Unit QWIIC BUS Module" width="30%">
 </p>
 
 > **Note:**  
