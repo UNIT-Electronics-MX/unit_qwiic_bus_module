@@ -8,8 +8,8 @@ The **Unit QWIIC BUS Module** is an **I2C expander** designed for **QWIIC bus co
 > While the module supports connecting up to **4 devices** on the same I2C bus, the number of devices directly connected depends on the available space on the board. To connect all **4 devices**, an **external cable** is required.  
 > For optimal layout and usability, it is recommended to connect up to **3 sensors** directly on the board.
 
-<p align="center">
-    <img src="./hardware/resources/PUE0053-Pinout-Qwiic-Bus[EN]-001.jpg" alt="Unit QWIIC BUS Module" width="30%">
+<p align="center" style="text-align: center; width: 60%;">
+    ![Unit QWIIC BUS Module](./hardware/resources/PUE0053-Pinout-Qwiic-Bus[EN]-001.jpg)
 </p>
 
 > **Tip:**  
